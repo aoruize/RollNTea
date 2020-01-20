@@ -36,11 +36,11 @@ $(function () {
         ----------------------------------*/
         $grid.isotope({
           // options...
-            itemSelector: '.grid-item',
+            itemSelector: '.col-md-6',
             percentPosition: true,
             masonry: {
                 // use element for option
-                columnWidth: '.grid-sizer'
+                columnWidth: '.col-md-6'
             }
         });
         //-- filter items on button click --//
