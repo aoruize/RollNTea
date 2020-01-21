@@ -3,27 +3,6 @@
 $(function () {
     
     "use strict";
-    
-/*==================================
-    * Author        : Ideas_Factory
-    * Template Name : Mazen - Creative Portfolio Template
-==================================== */
-    
-/*=========== TABLE OF CONTENTS ===========
-
-    01. Isotope Plugin
-    02. Preloader
-    03. Navbar
-    04. Smooth Scroll
-    05. MagnifPopup Plugin
-    06. owl.carousel plugin
-    07. Form Validation
-    08. Window Scroll
-    09. FitText Plugin
-    10. counterUp Plugin
-    11. about hover
-
-======================================*/
 
 
     var $grid = $('.grid'),
