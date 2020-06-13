@@ -11547,7 +11547,11 @@ html.boxed .slider-container {
 }
 
 .social-icons li:hover.social-icons-instagram a {
-	background: #7c4a3a;
+	background: #a832c5;
+}
+
+.social-icons li:hover.social-icons-yelp a {
+	background: #b42a2a;
 }
 
 .social-icons li:hover.social-icons-skype a {
@@ -11583,7 +11587,7 @@ html.boxed .slider-container {
 }
 
 .social-icons.social-icons-dark-2 li a {
-	background: #272a2e;
+	background: #8AC447;
 }
 
 .social-icons.social-icons-dark-2 li a i {
