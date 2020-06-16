@@ -1129,6 +1129,9 @@
 							<form id="contactForm" name="contact" class="contact-form p-4 rounded" method="POST" netlify-honeypot="bot-field" netlify>			
 								<div class="p-2 appear-animation" data-appear-animation="maskUp">
 									<div class="form-row">
+										<p class="hidden">
+											<label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+										</p>
 										<div class="form-group col-lg-6">
 											<label class="required text-dark" style="font-family: Poppins">First Name</label>
 											<input type="text" value="" data-msg-required="Please enter your first name." maxlength="100" class="form-control" name="fname" id="fname" required>
